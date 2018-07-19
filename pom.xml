@@ -46,7 +46,7 @@
 		</plugins>
 	</build>
 	<distributionManagement>
-		<downloadUrl>http://github.com/olegn1/cicd</downloadUrl>
+		<downloadUrl>https://github.com/olegn1/cicd</downloadUrl>
 	</distributionManagement>
 
 </project>
