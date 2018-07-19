@@ -26,7 +26,7 @@
 
 	<dependencies>
 		<dependency>
-			<groupId>org.springframework.boot</groupId>
+			<groupId>org.springframework.bootboot</groupId>
 			<artifactId>spring-boot-starter-web</artifactId>
 		</dependency>
 
@@ -45,6 +45,8 @@
 			</plugin>
 		</plugins>
 	</build>
-
+	<distributionManagement>
+		<downloadUrl>http://github.com/olegn1/cicd</downloadUrl>
+	</distributionManagement>
 
 </project>
